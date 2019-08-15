@@ -37,17 +37,18 @@
                         <button class="login-form-btn">
                             Đăng nhập
                         </button>
+                        
+                    </div>
+                    
+                    <div class="recovery-password">
+                        <span>
+                            <a href=""><i>Quên mật khẩu?</i></a>
+                        </span>
                     </div>
                 </form>
             </div>
         </div>
     </div>
-
-
-
-
-
-
     <!--=========================== lINK jAVASCRIPT FIRLES =====================================-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="js/all.js"></script>
@@ -56,5 +57,4 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 </body>
-
 </html>

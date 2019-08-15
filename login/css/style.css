@@ -229,3 +229,19 @@ textarea:focus, input:focus {
 .login-form-btn:hover {
   background: #71e38c;
 }
+
+.recovery-password {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: -30px;
+}
+
+.recovery-password span a {
+  text-decoration: none;
+  opacity: 0.5;
+}
+
+.recovery-password span a:hover {
+  opacity: 1;
+  color: #4034eb;
+}
